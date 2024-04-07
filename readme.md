@@ -1,6 +1,6 @@
 ## APP de gestion de finance perso
 
-Le but de ce projet et de reproduire une application Android qui s'appelle MoneyHero
+Le but de ce projet et de reproduire une application Android qui s'appelle MoneyHero et de l'améliorer selon mes idées.
 
 L'appli permet de connaitre à l'avance son reste à vivre, en enregistrant ses revenues et dépenses aux quotidiens.
 
@@ -13,8 +13,7 @@ Le code de MoneyHero, n'étant pas accessible, cela me forcera à réfléchir à
 et de trouver des solutions pour sa mise en place.
 
 2. Je vais utiliser TypeScript afin de m'habituer à utiliser un code plus sûr.
-   n'ayant eu aucune formation sur TypeScript hormis sur le fait de à quoi il sert.
-   celà me forcera à en apprendre plus sur le sujet
+   n'ayant eu aucune formation sur ce dernier.
 
 3. Je vais utiliser Taillwind pour l'esthetique et le responsive.
 
